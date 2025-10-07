@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dunexi.github.io/sitemap.xml
